@@ -1,7 +1,7 @@
 # melooha
 First Screen
 ![Screenshot_1702491407](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/603d4d20-8a90-47b7-92ab-d2366df774f8)
-![Alt Text]([url/to/image.png](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/603d4d20-8a90-47b7-92ab-d2366df774f8)){: width="300px"}
+![Alt Text](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/603d4d20-8a90-47b7-92ab-d2366df774f8){: width="300px"}
 
 Second Screen
 ![Screenshot_1702491410](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/f7461987-533e-4f31-ae54-86cdf833ec12)
