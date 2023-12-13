@@ -3,13 +3,15 @@ First Screen
 ![Screenshot_1702491407](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/603d4d20-8a90-47b7-92ab-d2366df774f8)
 
 Second Screen
-![Screenshot_1702491415](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/f5e0c15c-ca48-4e62-9245-29b297e34478)
-
-Third Screen
 ![Screenshot_1702491413](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/ef8fed59-a49d-4c01-a562-6f6551cd353b)
 
-fourth Screen
+Third Screen
+
 ![Screenshot_1702491410](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/f7461987-533e-4f31-ae54-86cdf833ec12)
+
+fourth Screen
+
+![Screenshot_1702491415](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/f5e0c15c-ca48-4e62-9245-29b297e34478)
 
 
 ## Getting Started
