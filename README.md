@@ -1,19 +1,24 @@
 # melooha
 First Screen
 ![Screenshot_1702491407](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/603d4d20-8a90-47b7-92ab-d2366df774f8)
-<img src="https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/603d4d20-8a90-47b7-92ab-d2366df774f8" width=400 height=600>
+<img src="https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/603d4d20-8a90-47b7-92ab-d2366df774f8" width=300 height=600>
 
 Second Screen
 ![Screenshot_1702491410](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/f7461987-533e-4f31-ae54-86cdf833ec12)
+<img src="https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/f7461987-533e-4f31-ae54-86cdf833ec12" width=300 height=600>
+
 
 
 
 Third Screen
 ![Screenshot_1702491413](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/ef8fed59-a49d-4c01-a562-6f6551cd353b)
+<img src="https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/ef8fed59-a49d-4c01-a562-6f6551cd353b" width=300 height=600>
+
 
 fourth Screen
 
 ![Screenshot_1702491415](https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/f5e0c15c-ca48-4e62-9245-29b297e34478)
+<img src="https://github.com/flameXpriyanshu/Test1_Ui/assets/103518761/f5e0c15c-ca48-4e62-9245-29b297e34478" width=300 height=600>
 
 
 ## Getting Started
